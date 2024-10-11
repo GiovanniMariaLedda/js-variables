@@ -11,15 +11,15 @@ console.log(numOne + numTwo); // Output: 24
 
 // 2. Imposta questa variabile come prodotto di numThree e numTwo
 const numThreeTimesNumTwo = NaN;
-console.log(numThreeTimesNumTwo); // Output: 512
+console.log(numThree * numTwo); // Output: 512
 
 // 3. Imposta questa variabile come divisione di numThree per numOne
 const numThreeDividedByNumOne = NaN;
-console.log(numThreeDividedByNumOne); // Output: 4
+console.log(numThree / numOne); // Output: 4
 
 // 4. Imposta questa variabile come differenza tra numThree e numOne
 const numThreeMinusNumOne = NaN;
-console.log(numThreeMinusNumOne); // Output: 4
+console.log(numThree - numOne); // Output: 4
 
 // 5. Imposta questa variabile come somma di numOne, numTwo e numThree
 const sum = NaN;
